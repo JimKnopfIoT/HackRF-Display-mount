@@ -10,15 +10,15 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example](iso1.jpg)
-![Example](iso2.jpg)
-![Example](HackRF-b-iso1.jpg)
-![Example](Wideband2b-iso1.jpg)
-![Example](/20200317-DSC04998.jpg)
-![Example](/20200317-DSC05001.jpg)
-![Example](/20200317-DSC05002.jpg)
-![Example](/20200317-DSC05004.jpg)
-![Example](/20200317-DSC05006.jpg)
-![Example](/20200317-DSC05012.jpg)
-![Example](Wideband2-iso1.jpg)
-![Example](Wideband3-iso1.jpg)
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="HackRF-b-iso1.jpg" width="500" align="center"> 
+<img src="Wideband2b-iso1.jpg" width="500" align="center"> 
+<img src="20200317-DSC04998.jpg" width="500" align="center"> 
+<img src="20200317-DSC05001.jpg" width="500" align="center"> 
+<img src="20200317-DSC05002.jpg" width="500" align="center"> 
+<img src="20200317-DSC05004.jpg" width="500" align="center"> 
+<img src="20200317-DSC05006.jpg" width="500" align="center"> 
+<img src="20200317-DSC05012.jpg" width="500" align="center"> 
+<img src="Wideband2-iso1.jpg" width="500" align="center"> 
+<img src="Wideband3-iso1.jpg" width="500" align="center"> 
