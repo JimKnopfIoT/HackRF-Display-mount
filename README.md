@@ -16,9 +16,11 @@ Requirements:
 <img src="HackRF-b-iso1.jpg" width="220">
 <img src="Wideband2b-iso1.jpg" width="220">
 </p>  
-<img src="20200317-DSC04998.jpg" width="500" align="center"> 
-<img src="20200317-DSC05001.jpg" width="500" align="center"> 
-<img src="20200317-DSC05002.jpg" width="500" align="center"> 
+<p align="center">
+<img src="20200317-DSC04998.jpg" width="250"> 
+<img src="20200317-DSC05001.jpg" width="250"> 
+<img src="20200317-DSC05002.jpg" width="250"> 
+</p>  
 <img src="20200317-DSC05004.jpg" width="500" align="center"> 
 <img src="20200317-DSC05006.jpg" width="500" align="center"> 
 <img src="20200317-DSC05012.jpg" width="500" align="center"> 
