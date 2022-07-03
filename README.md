@@ -22,9 +22,9 @@ Requirements:
 <img src="20200317-DSC05002.jpg" width="250"> 
 </p>
 <p align="center">
-<img src="20200317-DSC05004.jpg" hight="200"> 
-<img src="20200317-DSC05006.jpg" hight="200"> 
-<img src="20200317-DSC05012.jpg" hight="200"> 
+<img src="20200317-DSC05004.jpg" hight="120"> 
+<img src="20200317-DSC05006.jpg" hight="120"> 
+<img src="20200317-DSC05012.jpg" hight="120"> 
 </p>
 <img src="Wideband2-iso1.jpg" width="500" align="center"> 
 <img src="Wideband3-iso1.jpg" width="500" align="center"> 
