@@ -10,10 +10,12 @@ Requirements:
 * Filament of your choice
 
 ## View
-<img src="iso1.jpg" width="500" align="center"> 
-<img src="iso2.jpg" width="500" align="center"> 
-<img src="HackRF-b-iso1.jpg" width="500" align="center"> 
-<img src="Wideband2b-iso1.jpg" width="500" align="center"> 
+<p align="center">
+<img src="iso1.jpg" width="220"> 
+<img src="iso2.jpg" width="220">
+<img src="HackRF-b-iso1.jpg" width="220">
+<img src="Wideband2b-iso1.jpg" width="220">
+</p>  
 <img src="20200317-DSC04998.jpg" width="500" align="center"> 
 <img src="20200317-DSC05001.jpg" width="500" align="center"> 
 <img src="20200317-DSC05002.jpg" width="500" align="center"> 
